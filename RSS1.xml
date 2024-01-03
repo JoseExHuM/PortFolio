@@ -1,0 +1,90 @@
+﻿<rss version="2.0">
+<channel>
+<!-- Prólogo -->
+<title>Asignaturas</title>
+<link>https://github.com/JoseExHuM/PortFolio</link>
+<description> Pagina de asignaturas </description>
+<category>aprendizaje/ASIR</category>
+<copyright>1º ASIR - LMSGI</copyright>
+
+<language>es-es</language>
+<lastBuildDate>Sun, 05 Dec 2021 12:15:00 +0100</lastBuildDate>
+<webMaster>exhujo_aliesma2324@iesmedinaazahara.es</webMaster>
+<!--  Noticias del canal  -->
+<item>
+<title>Sistemas de informacion</title>
+<description>En este artículo encontrará información sobre Sistemas de Información</description>
+<link>https://joseexhum.github.io/PortFolio/paginas/Sistemas%20de%20informacion.html</link>
+<author>exhujo_aliesma2324@iesmedinaazahara.es</author>
+<category>Base de datos</category>
+<pubDate>Sun, 05 Dec 2021 12:25:00 +0100</pubDate>
+</item>
+
+<item>
+<title> Organizacion secuencial encadenada</title>
+<description>En este artículo encontrará información sobre la organizacion encadenada</description>
+<link>https://joseexhum.github.io/PortFolio/paginas/Encadenada.html</link>
+<author>exhujo_aliesma2324@iesmedinaazahara.es</author>
+<category>Base de datos</category>
+<pubDate>Sun, 05 Dec 2021 12:25:00 +0100</pubDate>
+</item>
+
+<item>
+<title> Organizacion secuencial indexada</title>
+<description>En este artículo encontrará información sobre la organizacion encadenada</description>
+<link>https://joseexhum.github.io/PortFolio/paginas/Indexada.html</link>
+<author>exhujo_aliesma2324@iesmedinaazahara.es</author>
+<category>Indexada</category>
+<pubDate>Sun, 05 Dec 2021 12:25:00 +0100</pubDate>
+</item>
+
+<item>
+<title>Diseño logico</title>
+<description>En este artículo encontrará información sobre Diseño logico</description>
+<link>https://joseexhum.github.io/PortFolio/paginas/Dise%C3%B1o%20logico.html</link>
+<author>exhujo_aliesma2324@iesmedinaazahara.es</author>
+<category>Base de datos</category>
+<pubDate>Sun, 05 Dec 2021 12:25:00 +0100</pubDate>
+</item>
+
+
+<item>
+<title>Diseño conceptual</title>
+<description>En este artículo encontrará información sobre Diseño logico</description>
+<link>https://joseexhum.github.io/PortFolio/paginas/Dise%C3%B1o%20conceptual.html</link>
+<author>exhujo_aliesma2324@iesmedinaazahara.es</author>
+<category>Diseño logico</category>
+<pubDate>Sun, 05 Dec 2021 12:25:00 +0100</pubDate>
+</item>
+
+<item>
+<title>Transformacion E-R</title>
+<description>En este artículo encontrará información sobre Transformacion E-R</description>
+<link>https://joseexhum.github.io/PortFolio/paginas/Transformacion.html</link>
+<author>exhujo_aliesma2324@iesmedinaazahara.es</author>
+<category>Diseño logico</category>
+<pubDate>Sun, 05 Dec 2021 12:25:00 +0100</pubDate>
+</item>
+
+<item>
+<title>XML</title>
+<description>En este artículo encontrará información sobre XML</description>
+<link>https://joseexhum.github.io/PortFolio/paginas/XML.html</link>
+<author>exhujo_aliesma2324@iesmedinaazahara.es</author>
+<category>Lenguaje de marcas</category>
+<pubDate>Sun, 05 Dec 2021 12:25:00 +0100</pubDate>
+</item>
+
+<item>
+<title>HTML</title>
+<description>En este artículo encontrará información sobre HTML</description>
+<link>https://joseexhum.github.io/PortFolio/paginas/HTML.html</link>
+<author>exhujo_aliesma2324@iesmedinaazahara.es</author>
+<category>Lenguaje de marcas</category>
+<pubDate>Sun, 05 Dec 2021 12:25:00 +0100</pubDate>
+</item>
+
+
+
+</channel>
+</rss>
