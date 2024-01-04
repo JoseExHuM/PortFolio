@@ -1,0 +1,115 @@
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es" xml:base="https://joseexhum.github.io/PortFolio/">
+<id>https://joseexhum.github.io/PortFolio/</id>
+<title>Asignaturas más atom</title>
+<updated>2024-01-01T15:45:00+01:00</updated>
+<link rel="alternate" href="https://joseexhum.github.io/PortFolio/atom.xml"/>
+<author>
+<name>Jose Maria Expósito Humanes</name>
+<email>exhujo_aliesma2324@iesmedinaazahara.es</email>
+</author>
+<category term="Asignaturas ASIR"/>
+<contributor>
+<name>otro Autor</name>
+<email>otro@gmail.com</email>
+<uri>https://www.linkedin.com/in/otro</uri>
+</contributor>
+<logo>asignaturas.jpg</logo>
+
+<entry>
+<id>https://joseexhum.github.io/PortFolio/paginas/Sistemas%20de%20informacion.html</id>
+<title>Información sobre Sistemas de Información</title>
+<updated>2024-01-01T15:45:00+01:00</updated>
+<author>
+<name>Jose Maria Expósito Humanes</name>
+<email>exhujo_aliesma2324@iesmedinaazahara.es</email>
+</author>
+<summary> Información de la organizacion encadenada e indexada</summary>
+<link rel="alternate" href="https://joseexhum.github.io/PortFolio/paginas/Sistemas%20de%20informacion.html"/>
+</entry>
+
+<entry>
+<id>https://joseexhum.github.io/PortFolio/paginas/Encadenada.html</id>
+<title>Información Organización Encadenada</title>
+<updated>2024-01-01T15:45:00+01:00</updated>
+<author>
+<name>Jose Maria Expósito Humanes</name>
+<email>exhujo_aliesma2324@iesmedinaazahara.es</email>
+</author>
+<summary> Información de la organizacion encadenada </summary>
+<link rel="alternate" href="https://joseexhum.github.io/PortFolio/paginas/Encadenada.html"/>
+</entry>
+
+<entry>
+<id>https://joseexhum.github.io/PortFolio/paginas/Indexada.html</id>
+<title>Información Organización Indexada</title>
+<updated>2024-01-01T15:45:00+01:00</updated>
+<author>
+<name>Jose Maria Expósito Humanes</name>
+<email>exhujo_aliesma2324@iesmedinaazahara.es</email>
+</author>
+<summary> Información de la organizacion indexada </summary>
+<link rel="alternate" href="https://joseexhum.github.io/PortFolio/paginas/Indexada.html"/>
+</entry>
+
+<entry>
+<id>https://joseexhum.github.io/PortFolio/paginas/Dise%C3%B1o%20logico.html</id>
+<title>Diseño lógico</title>
+<updated>2024-01-01T15:45:00+01:00</updated>
+<author>
+<name>Jose Maria Expósito Humanes</name>
+<email>exhujo_aliesma2324@iesmedinaazahara.es</email>
+</author>
+<summary> Información de diseño logico </summary>
+<link rel="alternate" href="https://joseexhum.github.io/PortFolio/paginas/Dise%C3%B1o%20logico.html"/>
+</entry>
+
+<entry>
+<id>https://joseexhum.github.io/PortFolio/paginas/Dise%C3%B1o%20conceptual.html</id>
+<title>Diseño conceptual</title>
+<updated>2024-01-01T15:45:00+01:00</updated>
+<author>
+<name>Jose Maria Expósito Humanes</name>
+<email>exhujo_aliesma2324@iesmedinaazahara.es</email>
+</author>
+<summary> Información sobre diseño conceptual </summary>
+<link rel="alternate" href="https://joseexhum.github.io/PortFolio/paginas/Dise%C3%B1o%20conceptual.html"/>
+</entry>
+
+<entry>
+<id>https://joseexhum.github.io/PortFolio/paginas/Transformacion.html</id>
+<title>Transformacion E-R</title>
+<updated>2024-01-01T15:45:00+01:00</updated>
+<author>
+<name>Jose Maria Expósito Humanes</name>
+<email>exhujo_aliesma2324@iesmedinaazahara.es</email>
+</author>
+<summary> Información sobre tranformacion del modelo E-R </summary>
+<link rel="alternate" href="https://joseexhum.github.io/PortFolio/paginas/Transformacion.html"/>
+</entry>
+
+<entry>
+<id>https://joseexhum.github.io/PortFolio/paginas/XML.html</id>
+<title>XML</title>
+<updated>2024-01-01T15:45:00+01:00</updated>
+<author>
+<name>Jose Maria Expósito Humanes</name>
+<email>exhujo_aliesma2324@iesmedinaazahara.es</email>
+</author>
+<summary> Información sobre XML </summary>
+<link rel="alternate" href="https://joseexhum.github.io/PortFolio/paginas/XML.html"/>
+</entry>
+
+<entry>
+<id>https://joseexhum.github.io/PortFolio/paginas/HTML.html</id>
+<title>HTML</title>
+<updated>2024-01-01T15:45:00+01:00</updated>
+<author>
+<name>Jose Maria Expósito Humanes</name>
+<email>exhujo_aliesma2324@iesmedinaazahara.es</email>
+</author>
+<summary> Información sobre HTML </summary>
+<link rel="alternate" href="https://joseexhum.github.io/PortFolio/paginas/HTML.html"/>
+</entry>
+
+
+</feed>
